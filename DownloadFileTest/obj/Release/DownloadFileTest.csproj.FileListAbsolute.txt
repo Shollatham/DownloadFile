@@ -1,0 +1,9 @@
+Y:\Work\DownloadFile\DownloadFileTest\bin\Release\DownloadFileTest.dll
+Y:\Work\DownloadFile\DownloadFileTest\bin\Release\DownloadFileTest.pdb
+Y:\Work\DownloadFile\DownloadFileTest\bin\Release\DownloadFile.exe
+Y:\Work\DownloadFile\DownloadFileTest\bin\Release\Renci.SshNet.dll
+Y:\Work\DownloadFile\DownloadFileTest\bin\Release\DownloadFile.pdb
+Y:\Work\DownloadFile\DownloadFileTest\bin\Release\Renci.SshNet.xml
+Y:\Work\DownloadFile\DownloadFileTest\obj\Release\DownloadFileTest.csprojResolveAssemblyReference.cache
+Y:\Work\DownloadFile\DownloadFileTest\obj\Release\DownloadFileTest.dll
+Y:\Work\DownloadFile\DownloadFileTest\obj\Release\DownloadFileTest.pdb
